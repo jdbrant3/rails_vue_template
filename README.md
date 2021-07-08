@@ -1,0 +1,1 @@
+# rails_vue_template
